@@ -1,0 +1,11 @@
+name = "proxyviivigigviivv"
+main = "_worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+ADMIN = "admin"
+UUID = "d3b7c9a2-1234-5678-9abc-def012345678"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "c413aece5f7143ec8296b7e2022b8884"
